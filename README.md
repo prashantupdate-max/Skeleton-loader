@@ -6,7 +6,7 @@ A beautiful collection of animated skeleton loaders inspired by modern applicati
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 </p>
 
